@@ -1,0 +1,3 @@
+[submodule "libs/private-lib"]
+  path = libs/private-lib
+  url = git@github.com:example-dash/private-lib.git
